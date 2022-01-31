@@ -1,5 +1,3 @@
-# I stole this repo
-
 # COVID-19 Dashboard
 
 _...the most beautiful part of this dashboard/report for me is that the data was ingested into Power BI using **PYTHON**..._
